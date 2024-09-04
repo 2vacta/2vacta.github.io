@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://2vacta.github.io/sitemap/sitemap.txt
